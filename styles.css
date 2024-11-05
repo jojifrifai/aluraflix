@@ -1,0 +1,7 @@
+body {
+    display: inline-block;
+    color: hsl(290, 79%, 36%);
+    background: hsl(288, 45%, 32%);
+    margin: 60,px;
+    text-align: right;
+}
